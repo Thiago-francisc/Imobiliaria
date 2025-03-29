@@ -1,0 +1,128 @@
+body{
+    margin: 0;
+
+}
+
+.logotipo{
+    background-color: #7dc8fa;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 24px;
+}
+.logo-i{
+    width: 170px;   
+    height: 170px;
+
+}
+
+a{
+    padding: 15px;
+    color: black;
+    text-align: top;
+}
+
+
+.destaque{
+    text-align: center;
+    margin-bottom: 45px;
+}
+.banner-i{
+    padding-bottom: 25px;
+   
+}
+.paragrafo{
+    text-align: center;
+}
+
+.texto{
+    width:  500px;
+    margin: 0 auto;
+    line-height: 30px;
+    font-size: 20px;
+}
+
+.casa{
+    width: 1050px;   
+    height: 400px;
+}
+
+h2{
+    font-size: 50px;
+    font-weight:bold;
+}
+
+h3{
+    font-size: 25px;
+    color: #5aa1cf;
+}
+span{
+    font-weight: bold;
+    color: #7dc8fa;
+}
+
+.texto-fim{
+    text-align: center;
+    
+    margin: auto;
+    line-height: 30px;
+    background-color: #0d7dbea1;
+    color: white;
+    font-size: 29px;
+    padding-bottom: 100px;
+
+    
+
+}
+
+.branco{
+    color:yellow;
+}
+
+.lista{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    
+}
+
+.corretor{
+    text-align: center;
+    color:#5aa1cf;
+    font-size: 29px;
+
+}
+
+a{
+    color: purple;
+}
+.texto-c{
+    color: black;
+    font-size: 25px;
+}
+
+.co-img{
+    width: 850px;   
+    height: 400px;
+}
+
+.fim{
+    text-align: center;
+    background-color: #5aa1cf;
+}
+
+.texto-f{
+    color: white;
+    font-size: 45px;
+}
+.contato-2{
+    color: rgb(250, 246, 0);
+    font-size: 25px;
+    background-color: black;
+}
+
+.contato-ff{
+    color: rgb(255, 255, 255);
+    
+}
+.ul{
+    background-color: aliceblue;
+}
